@@ -1,0 +1,4 @@
+1.Class must public and final
+2.There must not be any setter method
+3.We want to instatinate through constructor
+4.Everything inside must be final
